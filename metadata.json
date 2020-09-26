@@ -1,0 +1,24 @@
+{
+  "name": "Belarussian rouble exchange rates",
+  "description": "Display exchange rate for USD in the top panel. Rate is pulled from the National Bank of the Republic of Belarus.",
+  "uuid": "byconverter@drugento.com",
+  "shell-version": [
+    "3.18",
+    "3.19",
+    "3.20",
+    "3.21",
+    "3.22",
+    "3.23",
+    "3.24",
+    "3.25",
+    "3.26",
+    "3.27",
+    "3.28",
+    "3.29",
+    "3.30",
+    "3.31",
+    "3.32",
+    "3.33",
+    "3.34"
+  ]
+}
