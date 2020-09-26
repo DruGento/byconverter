@@ -1,4 +1,4 @@
-# byconverter
+# Byconverter
 Gnome Shell extension to display USD currency rate in top panel
 
 ![Screenshot](doc/screenshot.png)
